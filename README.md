@@ -24,7 +24,7 @@ Additionally, this project uses the following Python libraries:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/alexisperdereau/vanilla-option-pricer.git
+   git clone https://github.com/alexisperdereau/vanilla-pricer.git
 
 
 ### Structure
